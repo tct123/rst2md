@@ -1,6 +1,6 @@
 # rst2md
 Created with CHATGPT
 ## Debian (etc.)
-```sh
+```bash
 sudo apt install pandoc
 ```
