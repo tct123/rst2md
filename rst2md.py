@@ -8,6 +8,6 @@ def rst2md(input_file, output_file):
 
 
 if __name__ == "__main__":
-    input_file = "README.txt"
-    output_file = "README.md"
+    input_file = input("Path to README.rst: ")
+    output_file = "Path to README.md: "
     rst2md(input_file=input_file, output_file=output_file)
